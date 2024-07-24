@@ -1,0 +1,53 @@
+/* Global styles  */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(https://t3.ftcdn.net/jpg/01/03/31/48/360_F_103314840_pSOFixTmp0m48TfBFoYPw0pOpoaKebwJ.jpg);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: linear-gradient(90deg, red, transparent);
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 120px;
+}
+
+/* h1 {
+  font-weight: 900;
+  font-size: 70px;
+  color: rgb(255, 51, 51);
+} */
+
+/* .shadow1 {
+  text-shadow: -10px -10px 0 black;
+}
+
+.shadow2 {
+  text-shadow: 10px 10px 30px black;
+}
+
+.shadow3 {
+  text-shadow: 0px 5px 5px rgb(156, 5, 5);
+}
+
+.shadow4 {
+  text-shadow: 5px 0px 5px rgb(156, 5, 5);
+} */
+
+/* .box1 {
+  width: 400px;
+  height: 400px;
+  background-color: red;
+  border-radius: 10px;
+  box-shadow: 20px 20px 10px 50px black;
+} */
